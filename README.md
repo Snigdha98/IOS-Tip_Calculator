@@ -28,8 +28,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- ![](https://i.imgur.com/mzdVUeo.gif) -->
-![](https://i.imgur.com/LJYndKX.gif)
+![](https://i.imgur.com/mzdVUeo.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
